@@ -15,7 +15,7 @@ python mangae.py --port=yourport
 开启离线统计任务
 
 ```
-celery -A task.job worker -B  
+celery -A task.job worker -B --loglevel=info 
 ```
 
 ## 关于微信小程序上线问题
