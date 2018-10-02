@@ -12,7 +12,7 @@
 python mangae.py --port=yourport
 ```
 
-开启离线任务统计
+开启离线统计任务
 
 ```
 celery -A task.job worker -B  
