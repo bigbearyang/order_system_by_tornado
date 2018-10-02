@@ -1,0 +1,7 @@
+PyMySQL==0.9.2
+requests==2.19.1
+SQLAlchemy==1.2.10
+tornado==5.1.1
+Werkzeug==0.14.1
+redis==2.10.6
+celery==4.2.1
