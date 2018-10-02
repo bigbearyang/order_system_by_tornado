@@ -1,0 +1,6 @@
+<view>
+    <text space="ensp">订单支付完成！！！</text>
+</view>
+<view>
+    <text space="emsp">[备注]：由于支付功能只面向商户，所以去除支付模块</text>
+</view>
